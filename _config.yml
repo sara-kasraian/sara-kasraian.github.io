@@ -221,7 +221,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: ["Kasraian", "Kasraian Fard"]
+  last_name: Kasraian
   first_name: Sara
 
   style: apa
