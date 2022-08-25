@@ -1,15 +1,23 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Pires":
+  - firstname: ["João", "J."]
+    url: https://orcid.org/0000-0001-9738-4423
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Endimiani":
+  - firstname: ["Andrea", "A."]
+    url: https://scholar.google.ch/citations?user=Im9CmLEAAAAJ
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Künzli":
+  - firstname: ["Esther", "E."]
+    url: https://www.swisstph.ch/fr/staff/profile/people/esther-kuenzli/
+    
+"Donà":
+  - firstname: ["Valentina", "V."]
+    url: https://ch.linkedin.com/in/valentina-don%C3%A0-9928a5169
 
+"Bernasconi":
+  - firstname: ["Odette", "Odette J.", "Odette Joëlle", "O.J."]
+    url: https://boris.unibe.ch/view/contributors_bern/Bernasconi=3AOdette_Jo=EBlle=3A=3A.html
+    
 "Bach": 
   - firstname: ["Johann Sebastian", "J. S."]
     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
@@ -17,13 +25,9 @@
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+
+
 
 "Lorentz":
   - firstname: ["Hendrik Antoon"]
